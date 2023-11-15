@@ -1,5 +1,5 @@
 ## Advice Generator
-!['ilustration of app]('https://github.com/tamires-manhaes/advice-generator/blob/main/advice-generator.png')
+!['ilustration of app](https://github.com/tamires-manhaes/advice-generator/blob/main/advice-generator.png)
 
 # React + TypeScript + Vite
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
