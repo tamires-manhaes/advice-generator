@@ -1,0 +1,35 @@
+#root {
+  margin: 0;
+  padding: 0;
+  min-height: 100vh;
+}
+
+body {
+  margin: 0;
+}
+
+h1, h2, h3, h4, h5 {
+  font-family: 'Bebas Neue';
+}
+
+span, p {
+  font-family: 'Signika Negative';
+}
+
+button {
+  border: none;
+  pointer-events: all;
+  cursor: pointer;
+}
+
+
+@keyframes animloader {
+  0% {
+    transform: scale(0);
+    opacity: 1;
+  }
+  100% {
+    transform: scale(1);
+    opacity: 0;
+  }
+}
