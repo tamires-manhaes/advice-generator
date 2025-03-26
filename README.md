@@ -49,8 +49,7 @@ project developed with [Vite](https://vitejs.dev/) template for [React & Typescr
 
 ### 🗒️ Features do projeto 🗒️
 
-- Exibicao dos modulos do curso
-- Auto play nas aulas e modulos
+- Gera um conselho aleatorio 
 
 ## 💎 Links úteis 💎
 
